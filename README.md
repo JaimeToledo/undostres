@@ -6,6 +6,7 @@
 * Tener Instalado IDE(Intellij, eclipse, etc..)
 * Importar el proyecto en el IDE
 * Tener un dispositivo ANDROID conectado al equipo en modo depuración USB
+* Tener Instalada la App(se omitio instalarla en capabilities ya que no tengo derechos sobre ella para hacerla publica).
 	
 ### Appium
 * Instalar Android studio(para que se instale el sdk)
