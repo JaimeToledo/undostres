@@ -57,3 +57,7 @@
 * Al exportar el proyecto en el IDE, se podrá visualizar un archivo llamado testng.xml el cual se abrirá dando doble clic.
 * Una vez que se visualice ese archivo, dentro de el hacemos clic derecho y se selecciona la opción Run AS-> TestNG Suite y se comenzara a ejecutar el script.
 
+### Visualizar reporte de resultados
+* Buscar en una carpeta llamada Reporte en el menu raiz del proyecto.
+* Seleccionar el archivo Resultados.html y se abrira el reporte en un navegador de forma local.
+
